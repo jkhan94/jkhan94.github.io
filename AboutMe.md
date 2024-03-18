@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<!-- 줄바꿈은 스페이스 2번 --!>
 
 Jin Kyung Han | 한진경  
 기술 블로그  
