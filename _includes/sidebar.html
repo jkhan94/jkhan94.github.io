@@ -36,11 +36,17 @@
 <div class="sidebar-item sidebar-nav">
   	<ul class="nav">
 			<li class="nav-title">Categories</li>
-	    <!-- {% for category in site.categories %} -->
-	    {% assign sorted_cats = site.categories | sort %}	
-            {% for category in sorted_cats %}
-	    <li>
+	    <!-- {% for category in site.categories %} 
+	    	<li>
 	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
+				<span class="name">{{ category | first }}</span>
+				<span class="badge">{{ category | last | size }}</span>
+	    	</a>
+ 		</li> -->
+	 	{% assign sorted_cats = site.categories | sort %}	
+        	{% for category in sorted_cats %}
+		<li>
+	    	<a class="nav-item" href="{{ root_url }}/{{ sorted_cats }}#{{ category | first }}">
 				<span class="name">{{ category | first }}</span>
 				<span class="badge">{{ category | last | size }}</span>
 	    	</a>
