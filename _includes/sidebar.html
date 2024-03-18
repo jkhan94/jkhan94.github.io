@@ -46,7 +46,7 @@
 	 	{% assign sorted_cats = site.categories | sort %}	
         	{% for category in sorted_cats %}
 		<li>
-	    	<a class="nav-item" href="{{ root_url }}/{{ sorted_cats }}">
+	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ sorted_cats }}">
 				<span class="name">{{  sorted_cats }}</span>
 				<span class="badge">{{  sorted_cats | size }}</span>
 	    	</a>
