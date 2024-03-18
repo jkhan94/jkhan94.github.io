@@ -5,8 +5,8 @@ date:   2024-03-18 19:31:29 +0900
 categories: Github_Pages
 ---
 
-[https://blog.naver.com/hunii123/222445136129](https://blog.naver.com/hunii123/222445136129)  
-[https://blog.naver.com/rlaclgd/223173371317](https://blog.naver.com/rlaclgd/223173371317)
+[blog.naver.com/hunii123/222445136129](https://blog.naver.com/hunii123/222445136129)  
+[blog.naver.com/rlaclgd/223173371317](https://blog.naver.com/rlaclgd/223173371317)
 
 
 깃허브에 지킬 테마 적용법
@@ -15,4 +15,4 @@ categories: Github_Pages
 3. 리포지토리 > 세팅 > 이름을 유저명.github.io 로 변경
 4. _config.yml 수정
 
-포스팅 작성은 [https://blog.naver.com/hunii123/222445279719](https://blog.naver.com/hunii123/222445279719) 참고.
+포스팅 작성은 [blog.naver.com/hunii123/222445279719](https://blog.naver.com/hunii123/222445279719) 참고.
