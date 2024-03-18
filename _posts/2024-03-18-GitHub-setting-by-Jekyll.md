@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "지킬 테마로 깃허브 세팅"
-date:   2024-03-18
+date:   2024-03-18 19:31:29 +0900
 categories: jekyll update
 ---
 
