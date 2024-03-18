@@ -10,4 +10,4 @@ Jin Kyung Han | 한진경
   
 백엔드 공부하고 있습니다.  
   
-*[GitHub](https://github.com/jkhan94)
+●[GitHub](https://github.com/jkhan94)
