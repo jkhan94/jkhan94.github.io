@@ -15,6 +15,7 @@ categories: Github_Pages
 <br>
 
 2. 수평선 <br>
+  &ensp; 페이지 나눌 때 사용 <br>
   &ensp; 이전 라인을 비워둬야 수평선으로 인식 <br>
   &ensp; 기호 뒤에 태그 붙이지 않아야 수평선으로 인식. eg) ___&lt;br&gt;은 언더바 3개로 인식. <br>
   언더바 3개 <br>
