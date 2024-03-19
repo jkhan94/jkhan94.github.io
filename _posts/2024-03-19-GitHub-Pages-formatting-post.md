@@ -7,7 +7,7 @@ categories: Github_Pages
 
 게시글 쓸 때 참고할 것. <br><br>
 
-1. 헤더
+
   # 헤더1
   ## 헤더2
   ### 헤더3
@@ -22,10 +22,11 @@ categories: Github_Pages
   헤더2 ---
   --- 
   <br><br>
-
-2. 수평선 <br>
+1. 헤더
+   
+3. 수평선 <br>
   &ensp; 이전 라인을 비워둬야 수평선으로 인식 <br>
-  &ensp; 기호 뒤에 태그 붙이지 않아야 수평선으로 인식. eg) ___<br>은 언더바 3개로 인식. <br>
+  &ensp; 기호 뒤에 태그 붙이지 않아야 수평선으로 인식. eg) ___&lt;br&gt;은 언더바 3개로 인식. <br>
   언더바 3개 <br>
   
   ___ 
@@ -64,8 +65,8 @@ categories: Github_Pages
    > > > 수면시간을 확보할 수 있다고 한다.
    > ###### 헤더도 넣을 수 있고
    > *list
-   > 'textbox'   
-    <br><br>
+   > 'textbox'      
+   <br><br>
 
 8. 리스트 <br>
    Unordered List
