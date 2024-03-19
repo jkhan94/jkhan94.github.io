@@ -64,8 +64,7 @@ categories: Github_Pages
    > > > 수면시간을 확보할 수 있다고 한다.
    > ###### 헤더도 넣을 수 있고
    > *list
-   > 'textbox'
-   
+   > 'textbox'   
     <br><br>
 
 8. 리스트 <br>
