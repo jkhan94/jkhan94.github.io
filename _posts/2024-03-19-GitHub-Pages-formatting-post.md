@@ -5,9 +5,6 @@ date:   2024-03-19
 categories: Github_Pages
 ---
 
-게시글 쓸 때 참고할 것. <br><br>
-
-
   # 헤더1
   ## 헤더2
   ### 헤더3
