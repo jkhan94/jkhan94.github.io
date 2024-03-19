@@ -12,7 +12,8 @@ categories: Github_Pages
 #### 헤더4
 ##### 헤더5
 ###### 헤더6 
-   
+<br>
+
 2. 수평선 <br>
   &ensp; 이전 라인을 비워둬야 수평선으로 인식 <br>
   &ensp; 기호 뒤에 태그 붙이지 않아야 수평선으로 인식. eg) ___&lt;br&gt;은 언더바 3개로 인식. <br>
@@ -22,6 +23,7 @@ categories: Github_Pages
   줄표 3개 <br>
   
   ---
+  
   <br><br>
 
 3. Indentation(들여쓰기) <br>
