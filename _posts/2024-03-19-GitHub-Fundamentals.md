@@ -17,10 +17,10 @@ categories: Github
   원격 저장소 생성 > 파일 작업 커밋 > 새로 받아오면 clone or 기존에 받았으면 pull > 로컬에서 파일 작업 후 커밋 > 원격 저장소 pull 싱크 맞춤. conflict 발생 시 어느 버전 놔둘 지 선택 > 내가 작업한 파일을 푸시 > PR 요청 > 저장소 관리자가 merge.<br><br>
     
 Repository(저장소 생성)  <br>
-'&nbsp;'Owner: 계정<br>
-'&nbsp;'Repository name: 저장소 이름<br>
-'&nbsp;'Description: 저장소 설명. *README 파일 생성해서 적는 게 더 좋은 듯.<br>
-'&nbsp;'Public || Private: 공개 여부.<br><br>
+&nbsp; Owner: 계정<br>
+&nbsp; Repository name: 저장소 이름<br>
+&nbsp; Description: 저장소 설명. *README 파일 생성해서 적는 게 더 좋은 듯.<br>
+&nbsp; Public || Private: 공개 여부.<br><br>
   
 깃허브 데스트톱에 저장소 연결.<br>
   Setup in Desktop > 로컬 저장 주소 설정 > clone <br><br>
