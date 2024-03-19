@@ -53,6 +53,25 @@ categories: Github_Pages
 <br>
 6. URL 
    [https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/](https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/)
+   [https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC#headers_%ED%97%A4%EB%8D%94](https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC#headers_%ED%97%A4%EB%8D%94)
 
 7. 인용구
-8. 
+   누군가 말하길
+   > 잔디는 미리미리 심어야 하고
+   > > 되도록이면 해 지기 전에 다 심어야
+   > > > 수면시간을 확보할 수 있다고 한다.
+   > ###### 헤더도 넣을 수 있고
+   > *list
+   > 'textbox'
+   
+8. 리스트
+   Unordered List
+   * rlghsms * + - 3가지
+     - 리스트 작성할 때는 br 태그 조심
+       - 탭으로 미는 게 편함.
+
+   Ordered List
+   1. 1번부터 순서대로 숫자 매김
+   3. 2 대신 3을 써도 2번으로 출력
+      1. 탭으로 밀어넣으면 새 리스트 시작
+         3. 그런데 새 리스트 시작할 때는 1로 시작해야 리스트가 제대로 인식되는 듯.
