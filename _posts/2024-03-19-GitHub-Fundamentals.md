@@ -6,26 +6,28 @@ categories: Github
 ---
 
 깃허브<br>
-개발 중 작성한 소스 코드를 효과적으로 관리해주는 협업 기능을 지원하는 형상관리 툴.<br>
-수정한 소스 코드끼리 충돌하거나 소스코드를 주고 받을 필요 없음.<br><br>
+&ensp; 개발 중 작성한 소스 코드를 효과적으로 관리해주는 협업 기능을 지원하는 형상관리 툴.<br>
+&ensp; 수정한 소스 코드끼리 충돌하거나 소스코드를 주고 받을 필요 없음.<br><br>
 
 깃허브 작업순서<br>
-*상황에 따라 다르기 때문에 간단하게만 작성. 원격에서 로컬로 저장소를 받은 다음, 로컬에서 작업 후 커밋해서 로컬에 저장. 작업이 완료되면 원격에 푸시 후 PR 요청하는 듯<br><br>
+&ensp; *상황에 따라 다르기 때문에 간단하게만 작성. <br>
+&ensp; 원격에서 로컬로 저장소를 받은 다음, 로컬에서 작업 후 커밋해서 로컬에 저장. 작업이 완료되면 원격에 푸시 후 PR 요청하는 듯<br><br>
   
-로컬 저장소 생성 > 파일 작업 > 커밋 > 원격 저장소에 푸시.<br>
+&ensp; 로컬 저장소 생성 > 파일 작업 > 커밋 > 원격 저장소에 푸시.<br>
  
-원격 저장소 생성 > 파일 작업 커밋 > 새로 받아오면 clone or 기존에 받았으면 pull > 로컬에서 파일 작업 후 커밋 > 원격 저장소 pull 싱크 맞춤. conflict 발생 시 어느 버전 놔둘 지 선택 > 내가 작업한 파일을 푸시 > PR 요청 > 저장소 관리자가 merge.<br><br>
+&ensp; 원격 저장소 생성 > 파일 작업 커밋 > 새로 받아오면 clone or 기존에 받았으면 pull > 로컬에서 파일 작업 후 커밋 <br>
+&ensp;&nbsp; > 원격 저장소 pull 싱크 맞춤. conflict 발생 시 어느 버전 놔둘 지 선택 > 내가 작업한 파일을 푸시 > PR 요청 > 저장소 관리자가 merge.<br><br>
     
 Repository(저장소 생성)  <br>
 &ensp; Owner: 계정<br>
-&nbsp; Repository name: 저장소 이름<br>
-&nbsp; Description: 저장소 설명. *README 파일 생성해서 적는 게 더 좋은 듯.<br>
-&nbsp; Public || Private: 공개 여부.<br><br>
+&ensp; Repository name: 저장소 이름<br>
+&ensp; Description: 저장소 설명. *README 파일 생성해서 적는 게 더 좋은 듯.<br>
+&ensp; Public || Private: 공개 여부.<br><br>
   
 깃허브 데스트톱에 저장소 연결.<br>
-  Setup in Desktop > 로컬 저장 주소 설정 > clone <br><br>
+&ensp;  Setup in Desktop > 로컬 저장 주소 설정 > clone <br><br>
   
-깃허브 데스크톱 <br>
+깃허브 데스크톱
 1. Repository 메뉴 > open in external editor > visual studio code 설치. <br>
 	  *없어도 커밋이나 푸시는 가능하지만 있으면 코드 수정할 때 편리할 듯. <br>
 2. 커밋: 소스코드를 로컬 저장소에 저장. <br>
@@ -40,16 +42,16 @@ Repository(저장소 생성)  <br>
     *origin 브랜치는 보통 master || main <br><br>
     
 브랜치: 현재 버전을 나눠서 개발 후 병합할 수 있는 협업 기능. <br>
-  Current branch > New branch > 브랜치명 입력 <br>
-  새 브랜치에서 작업 후 커밋 > 푸시 <br><br>
+&ensp;	Current branch > New branch > 브랜치명 입력 <br>
+&ensp;	새 브랜치에서 작업 후 커밋 > 푸시 <br><br>
 
-  pull: 원격 저장소의 소스를 지역 저장소로 가져오는 작업. 변경사항이 있을 시 pull로 싱크를 맞추고 작업한 다음 push하는 게 안전. <br>
+&ensp;  pull: 원격 저장소의 소스를 지역 저장소로 가져오는 작업. 변경사항이 있을 시 pull로 싱크를 맞추고 작업한 다음 push하는 게 안전. <br>
   
-  Create Pull Request  <br>
-    - 다른 브랜치에서 작업한 것을 원격 브랜치에 병합할 때 필요.  <br>
-    - 작업이 완료된 것을 다른 사람에게 알리는 목적으로 사용.  <br>
-    - PR을 받은 원본 저장소 관리자는 코드 변경 내역을 확인하고 Merge 여부를 결정.  <br>
-        *수정했으니 메인 브랜치에 pull 요청을 보내고 이걸 관리자가 승인하면 병합되는 듯.  <br><br>
+&ensp; Create Pull Request  <br>
+&ensp;&nbsp;&nbsp; 다른 브랜치에서 작업한 것을 원격 브랜치에 병합할 때 필요.  <br>
+&ensp;&nbsp;&nbsp 작업이 완료된 것을 다른 사람에게 알리는 목적으로 사용.  <br>
+&ensp;&nbsp;&nbsp PR을 받은 원본 저장소 관리자는 코드 변경 내역을 확인하고 Merge 여부를 결정.  <br>
+&ensp;&nbsp;&nbsp;&nbsp; *수정했으니 메인 브랜치에 pull 요청을 보내고 이걸 관리자가 승인하면 병합되는 듯.  <br><br>
 
 ----------------------------------------------------------------------------------------------------------------<br>
 [https://eunyoe.tistory.com/m/210#google_vignette](https://eunyoe.tistory.com/m/210#google_vignette)  <br>
@@ -113,15 +115,15 @@ Git 도스 명령어로 브랜치 생성 ~ pull request(PR) <br>
 깃허브 브랜치 단위로 PR(도스) <br><br>
 
 git add <br>
-	로컬 작업을 staging area(index)에 등록. <br>
-	이 과정을 staging이라 부름. <br>
-	staging area 업로드 된 것만 커밋 가능. 로컬에서 작업한 파일 중 일부만 공개 가능. 보안 향상. <br><br>
+&ensp; 로컬 작업을 staging area(index)에 등록. <br>
+&ensp; 이 과정을 staging이라 부름. <br>
+&ensp; staging area 업로드 된 것만 커밋 가능. 로컬에서 작업한 파일 중 일부만 공개 가능. 보안 향상. <br><br>
 
 git commit -m "커밋 메시지(바꾼 내 작성)" <br><br>
 
 git status <br>
-	Changes to be committed: staging area에 등록된 상태. 커밋 시 사라짐. <br>
-	Untracked files: staging area에 비포함. <br><br>
+&ensp; Changes to be committed: staging area에 등록된 상태. 커밋 시 사라짐. <br>
+&ensp; Untracked files: staging area에 비포함. <br><br>
 
 git remote add origin(원격저장소 이름) https://github.com/~(원격저장소 주소): 로컬 저장소에 origin이란 원격 저장소 추가. <br><br>
 
