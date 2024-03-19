@@ -14,13 +14,13 @@ categories: Github
   
   로컬 저장소 생성 > 파일 작업 > 커밋 > 원격 저장소에 푸시.<br>
   
-  원격 저장소 생성 > 파일 작업 커밋 > 새로 받아오면 clone || 기존에 받았으면 pull > 로컬에서 파일 작업 후 커밋 > 원격 저장소 pull 싱크 맞춤. conflict 발생 시 어느 버전 놔둘 지 선택 > 내가 작업한 파일을 푸시 > PR 요청 > 저장소 관리자가 merge.<br><br>
+  원격 저장소 생성 > 파일 작업 커밋 > 새로 받아오면 clone | 기존에 받았으면 pull > 로컬에서 파일 작업 후 커밋 > 원격 저장소 pull 싱크 맞춤. conflict 발생 시 어느 버전 놔둘 지 선택 > 내가 작업한 파일을 푸시 > PR 요청 > 저장소 관리자가 merge.<br><br>
     
 Repository(저장소 생성)  <br>
-  Owner: 계정<br>
-  Repository name: 저장소 이름<br>
-  Description: 저장소 설명. *README 파일 생성해서 적는 게 더 좋은 듯.<br>
-  Public || Private: 공개 여부.<br><br>
+	Owner: 계정<br>
+	Repository name: 저장소 이름<br>
+	Description: 저장소 설명. *README 파일 생성해서 적는 게 더 좋은 듯.<br>
+	Public || Private: 공개 여부.<br><br>
   
 깃허브 데스트톱에 저장소 연결.<br>
   Setup in Desktop > 로컬 저장 주소 설정 > clone <br><br>
@@ -46,10 +46,10 @@ Repository(저장소 생성)  <br>
   pull: 원격 저장소의 소스를 지역 저장소로 가져오는 작업. 변경사항이 있을 시 pull로 싱크를 맞추고 작업한 다음 push하는 게 안전. <br>
   
   Create Pull Request  <br>
-    다른 브랜치에서 작업한 것을 원격 브랜치에 병합할 때 필요.  <br>
-    작업이 완료된 것을 다른 사람에게 알리는 목적으로 사용.  <br>
-    PR을 받은 원본 저장소 관리자는 코드 변경 내역을 확인하고 Merge 여부를 결정.  <br>
-      *수정했으니 메인 브랜치에 pull 요청을 보내고 이걸 관리자가 승인하면 병합되는 듯.  <br><br>
+    - 다른 브랜치에서 작업한 것을 원격 브랜치에 병합할 때 필요.  <br>
+    - 작업이 완료된 것을 다른 사람에게 알리는 목적으로 사용.  <br>
+    - PR을 받은 원본 저장소 관리자는 코드 변경 내역을 확인하고 Merge 여부를 결정.  <br>
+        *수정했으니 메인 브랜치에 pull 요청을 보내고 이걸 관리자가 승인하면 병합되는 듯.  <br><br>
 
 ----------------------------------------------------------------------------------------------------------------<br>
 [https://eunyoe.tistory.com/m/210#google_vignette](https://eunyoe.tistory.com/m/210#google_vignette)  <br>
