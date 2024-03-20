@@ -2,7 +2,7 @@
 layout: post
 title:  "깃허브 포스팅"
 date:   2024-03-19
-categories: Github_Pages
+categories: GitHub_Pages
 ---
 
 1. 헤더 <br>
