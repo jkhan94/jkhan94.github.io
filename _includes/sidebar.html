@@ -48,21 +48,6 @@
 	</ul>
 </div>
 
-<div class="sidebar-item sidebar-nav">
-  	<ul class="nav">
-			<li class="nav-title">Tags</li>
-	    {% for tag in site.tags %} 
-	    	<li>
-	    	<a class="nav-item" href="{{ root_url }}/{{ site.tag_dir }}#{{ tag | first }}">
-				<span class="name">{{ tag | first }}</span>
-				<span class="badge">{{ tag | last | size }}</span>
-	    	</a>
- 		</li>
-	    {% endfor %}
-	  </nav>
-	</ul>
-</div>
-
 <div class="sidebar-item sidebar-footer">
 	<p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
 </div>
