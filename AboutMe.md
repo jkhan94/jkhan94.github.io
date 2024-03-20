@@ -12,6 +12,6 @@ GitHub: Projects Repository <br>
 GitHub Pages: Projects Description <br>
 NaverBlog: Engineering Blog <br><br>
 
-● [GitHub](https://github.com/jkhan94)
-+ [GitHub Pages](https://jkhan94.github.io/)
-+ [NaverBlog](https://blog.naver.com/jkhan94_it)
+* [GitHub](https://github.com/jkhan94)
+* [GitHub Pages](https://jkhan94.github.io/)
+* [NaverBlog](https://blog.naver.com/jkhan94_it)
