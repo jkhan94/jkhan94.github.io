@@ -2,7 +2,7 @@
 layout: post
 title:  "지킬 테마로 깃허브 세팅"
 date:   2024-03-18 19:31:29 +0900
-categories: Github_Pages
+categories: GitHub_Pages
 ---
 
 [https://blog.naver.com/hunii123/222445136129](https://blog.naver.com/hunii123/222445136129)  
