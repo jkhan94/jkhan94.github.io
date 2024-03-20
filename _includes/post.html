@@ -8,12 +8,13 @@
 			{%- assign date_format = site.date_forma | default: "%Y/%m/%d" -%}
 			{{ page.date | date: date_format }}
 		</time>	
-		
-		{% if page.tags %} 
-	       	 {% for tag in page.tags %}
-	       		 <a class="label">#{{ tag }}</a> &nbsp;
-	       	 {% endfor %}
-	        {% endif %}
+		<p>
+			{% if page.tags %} 
+		       	 {% for tag in page.tags %}
+		       		 <a class="label">#{{ tag }}</a> &nbsp;
+		       	 {% endfor %}
+		        {% endif %}
+		</p>
 	</header>
 
 	<div class="post-content">
