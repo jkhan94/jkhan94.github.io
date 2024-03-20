@@ -43,6 +43,7 @@ categories: GitHub_Pages
   &ensp;굵게 &emsp; **Bold star** &emsp; __Bold underbar__ <br>
   &ensp;취소선 &emsp; ~~Cancel~~ <br>
   &ensp;굵은 이탤릭 취소선 &emsp; *Italic **bold** ~~cancel~~ star* <br><br>
+  &ensp;언더라인 &emsp; <ins>underline</ins>
   
 
 6. URL <br>
