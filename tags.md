@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 title: Tag
-permalink: /tags/
+permalink: /tag/
 ---
