@@ -29,7 +29,7 @@ assets/images에 저장. <br>
 ![banana](https://github.com/jkhan94/assests_images_issue/assets/163835909/a1be2a90-0723-4b7c-819b-26f5f378be0f)
 
 <br><br>
-**참고**
+<ins>**참고**</ins>
 [이슈, 이미지 정렬, 사이즈 조절](https://hyeonjiwon.github.io/blog/markdown_img/) <br>
 [이미지 캡션](https://blog.jaeyoon.io/2017/12/jekyll-image.html) <br>
 [이슈, 이미지 삽입, 링크 삽입](https://velog.io/@uzchu/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-image-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0) <br>
