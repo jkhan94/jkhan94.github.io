@@ -29,8 +29,10 @@ assets/images에 저장. <br>
 
 ### 3. 마크다운 문법, 이미지 복사
 "이미지 복사' 가능하거나 캠처본이라서 주소가 없을 경우 이미지의 주소를 생성해서 첨부하면 저장공간을 아낄 수 있다. <br>
-임의의 레포지토리 > issues > new issues > 텍스트 박스에 이미지 복사 누른 거 붙여넣기 > 잠시 기다리면 마크다운 문법으로 이미지 형식 뜸.
-![banana](https://github.com/jkhan94/assests_images_issue/assets/163835909/a1be2a90-0723-4b7c-819b-26f5f378be0f)
+임의의 레포지토리 > issues > new issues > 텍스트 박스에 이미지 복사 누른 거 붙여넣기 > 잠시 기다리면 마크다운 문법으로 이미지 형식 뜸.<br>
+이슈에 쓴 레포지토리가 없어지면 이미지도 불러올 수 없음. <br>
+![banana](https://github.com/jkhan94/JAVA1_koreaIT/assets/163835909/8ec9c211-0f98-4355-9cda-b58564a7f58e)
+
 
 <br><br>
 <ins>**참고**</ins>
