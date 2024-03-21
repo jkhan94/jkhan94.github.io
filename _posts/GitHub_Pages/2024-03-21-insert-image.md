@@ -8,8 +8,12 @@ categories: GitHub_Pages
 ### 1. &lt;img&gt;태그, 로컬 이미지
 assets/images에 저장. <br>
 저장소에 개별로 저장해야 해서 용량 차지함.<br>
-&lt;img src="/assets/images/mango.png" width="10%" height="10%" title="Array" alt="아무거나"/&gt; <br>
-<img src="/assets/images/mango.png" width="10%" height="10%" title="Array" alt="아무거나"/> 
+&lt;img src="/assets/images/mango.png" width="10%" height="10%" title="Array" alt="이미지 깨졌을 때 보여줄 정보"/&gt; <br>
+<figure>
+  <figcaption>망고 위</figcaption>
+  <img src="/assets/images/mango.png" width="10%" height="10%" title="Array" alt="망고"/> 
+  <figcaption>망고 아래</figcaption>
+</figure>
 
 <br>
 
@@ -18,8 +22,8 @@ assets/images에 저장. <br>
 링크 복사하면 이미지가 뜨지 않음.<br>
 크기는 전체 공간에서 몇 % 차지할지 또는 길이만 써서 px 단위로 작성 가능.
 ![이름](URL]{: width="300" height="300"}{: .center}*캡션*<br>
-![test](https://cdn-icons-png.flaticon.com/128/13879/13879378.png){: width="300" height="300"}{: .center}*pixel* <br>
-![test](https://cdn-icons-png.flaticon.com/128/13879/13879378.png){: width="30%" height="30%"}{: .center}*percentage*
+![test](https://cdn-icons-png.flaticon.com/128/13879/13879378.png){: width="300" height="300"}{: .center}<br>*pixel* <br>
+![test](https://cdn-icons-png.flaticon.com/128/13879/13879378.png){: width="30%" height="30%"}{: .center}<br>*percentage*
 
 <br>
 
@@ -34,4 +38,7 @@ assets/images에 저장. <br>
 [이미지 캡션](https://blog.jaeyoon.io/2017/12/jekyll-image.html) <br>
 [이슈, 이미지 삽입, 링크 삽입](https://velog.io/@uzchu/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-image-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0) <br>
 [이미지 사이즈 조절](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html) <br>
-[이미지 캠션](https://mohitto55.github.io/gitblog/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%BA%A1%EC%85%98/)
+[이미지 캠션](https://mohitto55.github.io/gitblog/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%BA%A1%EC%85%98/) <br>
+[img 태그 캡션](https://www.codingfactory.net/10247) <br>
+[마크다운 이미지 삽입 스타일](https://lynmp.com/ko/article/title/markdown-image-ob811c9dc5v0) <br>
+
