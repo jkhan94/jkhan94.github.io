@@ -35,7 +35,7 @@ assets/images에 저장. <br>
 
 
 <br><br>
-<ins>**참고**</ins>
+<ins>**참고**</ins><br>
 [이슈, 이미지 정렬, 사이즈 조절](https://hyeonjiwon.github.io/blog/markdown_img/) <br>
 [이미지 캡션](https://blog.jaeyoon.io/2017/12/jekyll-image.html) <br>
 [이슈, 이미지 삽입, 링크 삽입](https://velog.io/@uzchu/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-image-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0) <br>
