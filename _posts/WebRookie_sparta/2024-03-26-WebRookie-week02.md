@@ -325,11 +325,15 @@ Array and dictionary, if and foreach statements. <br>
 ```
 ### <ins>Result</ins>
 ![1](https://github.com/jkhan94/assests_images_issue/assets/163835909/eaec4889-1905-4097-8e8a-1bd028f44c7c)
+<br>
 ![2](https://github.com/jkhan94/assests_images_issue/assets/163835909/b441229e-3992-4d10-ab13-d476f9415d0d)
+<br>
 ![3](https://github.com/jkhan94/assests_images_issue/assets/163835909/f39ca3ec-6f36-43e6-8f70-90237ae4a12c)
+<br>
 ![4](https://github.com/jkhan94/assests_images_issue/assets/163835909/606f6dc0-7acc-4e13-85dd-4b56ab775e5c)
+<br>
 ![5](https://github.com/jkhan94/assests_images_issue/assets/163835909/d2e1be9d-07af-4ffb-afe8-9e858fb1bc4a)
-
+<br>
 
 ## javascriptDOM.html
 Functions in javascript.<br>
@@ -391,10 +395,12 @@ Functions in javascript.<br>
 ```
 ### <ins>Result</ins>
 ![main](https://github.com/jkhan94/assests_images_issue/assets/163835909/353e6f44-fed5-444b-9cb6-37f141c612b6)
+<br>
 ![alert](https://github.com/jkhan94/assests_images_issue/assets/163835909/c3ed292c-e988-40f5-9280-48441340cc1e)
+<br>
 ![blue](https://github.com/jkhan94/assests_images_issue/assets/163835909/7c3602b2-0f75-42c0-8288-5a9cb3b85313)
 ![black](https://github.com/jkhan94/assests_images_issue/assets/163835909/1c43c8e3-dbbb-4f64-a8cd-f1b72ce9f4ac)
-
+<br>
 
 ## jQuery.html
 ```html
@@ -631,6 +637,7 @@ Functions in javascript.<br>
 ### <ins>Result</ins>
 ![original](https://github.com/jkhan94/assests_images_issue/assets/163835909/4cedf985-a9ae-4261-8902-9eeb4bc8fa29)
 ![function](https://github.com/jkhan94/assests_images_issue/assets/163835909/52842a2a-9a23-4ef0-82df-5afb1b3f05b6)
+<br>
 ![people](https://github.com/jkhan94/assests_images_issue/assets/163835909/15dad82c-0eb6-4ed9-9fbe-b630a9f28f99)
 ![height](https://github.com/jkhan94/assests_images_issue/assets/163835909/5b528184-d471-4672-a6d0-b5201a2321a3)
 
