@@ -294,4 +294,4 @@ Album layout.<br>
 </html>
 ```
 ### <ins>Result</ins>		
-![file:///C:/0325_sparta/album/index.html](https://github.com/jkhan94/assests_images_issue/assets/163835909/cf6cff3a-6e94-4b6c-8989-694925b828ce)
+![file:///C:/0325_sparta/album/index.html](https://github.com/jkhan94/assests_images_issue/assets/163835909/cf6cff3a-6e94-4b6c-8989-694925b828ce){: width="100%"}
