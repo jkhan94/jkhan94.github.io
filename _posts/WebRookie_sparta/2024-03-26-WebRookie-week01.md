@@ -53,6 +53,8 @@ Basic tags to use when designing web page by html.
 
 </html>
 ```
+### <ins>Result</ins>
+![file:///C:/0325_sparta/frontend/tags.html](https://github.com/jkhan94/assests_images_issue/assets/163835909/312d39fd-96ff-4bde-9a60-ced6a9781294)
 
 <br>
 
@@ -71,6 +73,7 @@ Get Id, PW from the user. <br>
 
         * {
             font-family: "Nanum Pen Script", cursive;
+            font-size: large;
         }
 
         .mytitle {
@@ -90,8 +93,12 @@ Get Id, PW from the user. <br>
             text-align: center;
         }
 
+        .mytitle > button {
+            border-radius: 15px;
+        }
+
         .wrap {
-            background-color: green;
+            /* background-color: green; */
             /* div는 가로 전체 구역.
             옮길 것들을 div로 묶은 뒤 가로 길이를 줘야 그것만 위치 벼녁 가능.
             auto는 끝까지 민다.*/
@@ -117,6 +124,8 @@ Get Id, PW from the user. <br>
 
 </html>
 ```
+### <ins>Result</ins>
+![file:///C:/0325_sparta/frontend/login.html](https://github.com/jkhan94/assests_images_issue/assets/163835909/7857edf8-6749-4246-a565-0bd83e269501)
 
 <br>
 
@@ -284,4 +293,5 @@ Album layout.<br>
 
 </html>
 ```
-		
+### <ins>Result</ins>		
+![file:///C:/0325_sparta/album/index.html](https://github.com/jkhan94/assests_images_issue/assets/163835909/cf6cff3a-6e94-4b6c-8989-694925b828ce)
