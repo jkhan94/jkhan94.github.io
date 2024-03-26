@@ -54,7 +54,7 @@ Basic tags to use when designing web page by html.
 </html>
 ```
 ### <ins>Result</ins>
-![file:///C:/0325_sparta/frontend/tags.html](https://github.com/jkhan94/assests_images_issue/assets/163835909/312d39fd-96ff-4bde-9a60-ced6a9781294 "result"){: width="50%"}
+![file:///C:/0325_sparta/frontend/tags.html](https://github.com/jkhan94/assests_images_issue/assets/163835909/312d39fd-96ff-4bde-9a60-ced6a9781294 "result"){: width="80%"}
 
 <br>
 
