@@ -520,7 +520,6 @@ ___
 
             fetch(url).then(res => res.json()).then(data => {
                 let rows = data['RealtimeCityAir']['row']
-                $('#names-q1').empty()
                 rows.forEach((a) => {
                     // 구 이름과 미세먼지만 출력
                     let gu_name = a['MSRSTE_NM']
