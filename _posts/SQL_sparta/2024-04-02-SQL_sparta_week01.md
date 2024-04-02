@@ -2,7 +2,7 @@
 layout: post
 title: SQL_sparta - week01
 date: 2024-04-02
-category: WebRookie_sparta
+category: SQL_sparta
 ---
 
 ## week01.sql
