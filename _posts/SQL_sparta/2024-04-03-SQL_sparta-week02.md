@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQL_sparta - week02
-date: 2024-04-02
+date: 2024-04-03
 category: SQL_sparta
 ---
 
