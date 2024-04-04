@@ -9,7 +9,7 @@ Jin Kyung Han | 한진경 <br>
 기술 블로그 <br><br>
 
 GitHub: Projects Repository <br>
-GitHub Pages: Projects Description <br>
+GitHub Pages: Projects Description + Source Codes <br>
 NaverBlog: Engineering Blog <br><br>
 
 * [GitHub](https://github.com/jkhan94)
