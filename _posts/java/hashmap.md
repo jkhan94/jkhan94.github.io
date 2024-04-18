@@ -2,7 +2,7 @@
 layout: post
 title: Put multiple values in one key (Hashmap)
 date: 2024-04-18
-category: java
+category: JAVA
 ---
 
 ## MapArray.java
