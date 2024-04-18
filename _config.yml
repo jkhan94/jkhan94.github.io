@@ -30,8 +30,8 @@ highlighter: rouge
 svg:
   optimize: true  
 # Build settings
-# theme: minima
-highlighter-theme: monokai
+# theme: minima monokai
+highlighter-theme: base16.solarized
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
