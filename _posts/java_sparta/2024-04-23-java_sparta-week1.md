@@ -48,11 +48,11 @@ public class Main {
 
         char charAlphabet = 'A';
         intNumber = charAlphabet;   // char -> int 형변환
-        System.out.println(intNumber); // A의 유니코드 : 65
+        System.out.println("charAlphabet = 'A' -> int " + intNumber); // A의 유니코드 : 65
 
         intNumber = 100;
         longNumber = intNumber; // int -> number 형변환
-        System.out.println(longNumber); // 100
+        System.out.println("int 100 -> long " + longNumber); // 100
 
         intNumber = 200;
         doubleNumber = intNumber; // int -> double 형변환
@@ -62,12 +62,12 @@ public class Main {
         intNumber = 10;
         doubleNumber = 5.5;
         double result = intNumber + doubleNumber; // result 에 15.5 저장됨 (int -> double)
+        System.out.println("10 + 5.5 = " + result);
 
-        intNumber = 10;
         int iResult = intNumber / 4; // iResult 에 2 저장됨 (int형 연산 -> 소수점 버려짐)
-
-        intNumber = 10;
         double dResult = intNumber / 4.0; // dResult 에 2.5 저장됨 (double형 연산 -> 소수점 저장)
+        System.out.println("iResult = " + iResult);
+        System.out.println("dResult = " + dResult);
 
         // 배열
         int[] a = {1, 2, 3};
@@ -76,9 +76,7 @@ public class Main {
 
         // 문자열
         String msg = "Hello World";
-        System.out.println(msg.toString());
         System.out.println(msg);
-
 
         // 래퍼클래스
         // 박싱 : Integer 래퍼 클래스 num 에 21 의 값을 저장
@@ -87,6 +85,9 @@ public class Main {
 
         // 언박싱
         int n = num.intValue(); // 래퍼 클래스들은 inValue() 같은 언박싱 메서드들을 제공.
+        System.out.println("int number = " + number);
+        System.out.println("Integer num = " + num);
+        System.out.println("num.intValue() = " + n);
 
         /////////////////////////////////
         // 아스키코드
@@ -120,13 +121,18 @@ public class Main {
 float ->  int: 1
 double ->  int: 2
 10
-65
-100
+charAlphabet = 'A' -> int 65
+int 100 -> long 100
 200.0
-[I@58372a00
+10 + 5.5 = 15.5
+iResult = 2
+dResult = 2.5
+[I@5f184fc6
 [1, 2, 3]
 Hello World
-Hello World
+int number = 21
+Integer num = 21
+num.intValue() = 21
 65
 A
 a
