@@ -5,7 +5,7 @@ date: 2024-04-23
 category: JAVA_sparta
 ---
 
-## Main.java
+## DataType.java
 ```java
 package week1;
 
